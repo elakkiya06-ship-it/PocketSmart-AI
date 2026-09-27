@@ -87,13 +87,14 @@ The demonstration video should contain:
 
 **PocketSmart-AI GitHub Repository:**
 
-> Add the public GitHub repository link here.
+https://github.com/elakkiya06-ship-it/PocketSmart-AI
+
 
 ### Live Application
 
 **Render Deployment:**
 
-> Add the live Render application link here.
+https://pocketsmart-ai-i7o4.onrender.com/
 
 ### Demo Video
 
