@@ -20,7 +20,7 @@ The system helps users receive personalized and practical suggestions through a 
 
 **Demo Video Link:**
 
-> Add the Google Drive demo video link here after uploading the video.
+ https://drive.google.com/file/d/1ISzX1eROe0FR5HNAO4FNS21u54l7kO-O/view?usp=sharing
 
 ## 5. Demo Video Contents
 
