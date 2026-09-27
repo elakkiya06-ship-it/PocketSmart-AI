@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+pocketsmart.db
+uploads/
+static/uploads/
